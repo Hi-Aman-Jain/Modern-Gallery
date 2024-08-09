@@ -1,7 +1,5 @@
 # Modern Image Gallery
 
-![Image Gallery Demo](https://media.giphy.com/media/3o7TKDEhaHWJpBs2Xu/giphy.gif)
-
 A responsive and interactive image gallery built with HTML, CSS, and JavaScript. This gallery features smooth transitions, animations, and a user-friendly interface.
 
 ## Features
@@ -16,7 +14,7 @@ A responsive and interactive image gallery built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-[Live Demo](https://hi-aman-jain.github.io/Modern-Gallery/)
+Click [here] to see live demo(https://hi-aman-jain.github.io/Modern-Gallery/)
 
 ## Installation
 
