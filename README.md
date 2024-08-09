@@ -14,7 +14,7 @@ A responsive and interactive image gallery built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-Click [here] to see live demo(https://hi-aman-jain.github.io/Modern-Gallery/)
+Click [here](https://hi-aman-jain.github.io/Modern-Gallery/) to see live demo 🤟
 
 ## Installation
 
